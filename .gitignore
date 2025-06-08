@@ -10,7 +10,7 @@ __pycache__/
 # Environment variables
 .env
 
-# Node.js (if frontend is using node)
+# Node.js 
 frontend/node_modules/
 
 # VSCode settings (optional)
